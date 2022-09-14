@@ -1,5 +1,7 @@
 # Burp Suite crack after version 2022.9 with ja-netfilter.
 
+[中文版](README.CN.md)
+
 ## Download:
 
 Burp Suite: https://portswigger.net/burp/releases#professional
