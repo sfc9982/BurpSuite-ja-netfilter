@@ -2,6 +2,10 @@
 
 [中文版](README.CN.md)
 
+## Author
+
+[googleweb/loader](https://github.com/googleweb/loader)
+
 ## Download:
 
 Burp Suite: https://portswigger.net/burp/releases#professional
